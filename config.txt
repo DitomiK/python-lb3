@@ -1,0 +1,6 @@
+text.txt
+polish
+file
+1000
+500
+50
